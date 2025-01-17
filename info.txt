@@ -1,8 +1,8 @@
-React & TypeScript ShoppingApp: useState With TypeScript
+React & TypeScript ShoppingApp: Creating Our ShoppingItem Form
 
 
 05:20
-Creating Our ShoppingItem Form
+
 03:45
 useRef With TypeScript
 07:40
