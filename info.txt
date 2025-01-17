@@ -1,9 +1,5 @@
-React & TypeScript ShoppingApp: Props With TypeScript
+React & TypeScript ShoppingApp: Creating Our ShoppingList Component
 
-
-03:59
-Creating Our ShoppingList Component
-07:51
 useState With TypeScript
 05:20
 Creating Our ShoppingItem Form

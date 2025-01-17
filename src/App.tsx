@@ -1,11 +1,15 @@
-import Greeter from "./components/Greeter.tsx";
+import ShoppingList from "./components/ShoppingList.tsx";
 
 function App() {
+
+    const items = [
+        {id: 1, product: "Lemon", quantity: 3},
+        {id: 2, product: "Chicken breast", quantity: 2},
+    ]
+
     return (
         <>
-            <Greeter person ="Colt"/>
-            <Greeter person ="Carol"/>
-            <Greeter person ="Elton"/>
+            <ShoppingList items={items}/>
         </>
     );
 }
