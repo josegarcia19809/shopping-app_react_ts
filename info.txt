@@ -1,6 +1,6 @@
-React & TypeScript ShoppingApp: Creating Our ShoppingList Component
+React & TypeScript ShoppingApp: useState With TypeScript
 
-useState With TypeScript
+
 05:20
 Creating Our ShoppingItem Form
 03:45
