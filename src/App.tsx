@@ -7,10 +7,14 @@ function App() {
 
     const [items, setItems] = useState<Item[]>([]);
 
+    const addItem = (product: string) => {
+        console.log(product);
+    }
+
     return (
         <>
             <ShoppingList items={items}/>
-            <ShoppingListForm/>
+            <ShoppingListForm onAddItem={addItem}/>
         </>
     );
 }
