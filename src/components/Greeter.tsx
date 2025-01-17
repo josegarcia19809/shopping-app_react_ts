@@ -1,7 +1,11 @@
-function Greeter() {
+interface GreeterProps {
+    person: string;
+}
+
+function Greeter({person}: GreeterProps) {
     return (
         <>
-        <h1>Hello</h1>
+            <h1>Hello, {person}</h1>
         </>
     );
 }

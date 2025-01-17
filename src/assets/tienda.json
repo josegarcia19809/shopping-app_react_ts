@@ -1,0 +1,48 @@
+{
+  "Cliente": {
+    "CURP": "ABCDE123456HMNLR09",
+    "Nombre": "Juan Pérez",
+    "Domicilio": "Calle Falsa 123",
+    "Edad": 30,
+    "CorreoElectronico": "juan.perez@example.com",
+    "Sexo": "Masculino",
+    "DeporteFavorito": "Fútbol"
+  },
+  "Ventas": [
+    {
+      "IDVenta": "001",
+      "Fecha": "2025-01-15",
+      "ModoVenta": "Internet",
+      "EntregaDomicilio": true,
+      "Total": 1500,
+      "Prendas": [
+        {
+          "Tipo": "Playera",
+          "Material": "Algodón",
+          "Precio": 300,
+          "Departamento": "Hombres",
+          "Talla": "M",
+          "Color": "Azul",
+          "Cantidad": 2,
+          "Comentarios": "Muy buena calidad"
+        },
+        {
+          "Tipo": "Pantalón",
+          "Material": "Mezclilla",
+          "Precio": 900,
+          "Departamento": "Hombres",
+          "Talla": "32",
+          "Color": "Negro",
+          "Cantidad": 1,
+          "Comentarios": "Perfecto para trabajo"
+        }
+      ],
+      "PromocionesAplicadas": [
+        {
+          "NombrePromocion": "2x1 en Playeras",
+          "Periodo": "San Valentín"
+        }
+      ]
+    }
+  ]
+}
