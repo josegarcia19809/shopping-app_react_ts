@@ -1,4 +1,4 @@
-React & TypeScript ShoppingApp: useRef With TypeScript
+React & TypeScript ShoppingApp: Updating The State
 
 
 05:20
@@ -6,7 +6,7 @@ React & TypeScript ShoppingApp: useRef With TypeScript
 03:45
 
 07:40
-Updating The State
+
 02:58
 Finishing Touches
 04:29
